@@ -1,4 +1,4 @@
 #!/bin/python
 
 print "sureshbabu jagatha"
-print "This is a small python scrigfdgfdsfsdfseffdptk"
+print "This is a small python scrigfdgfdsfdsfsdffsdfseffdptk"
